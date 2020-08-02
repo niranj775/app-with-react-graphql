@@ -1,4 +1,5 @@
 import React from 'react';
+import './App.css'
 import ApolloClient from 'apollo-boost';
 import { ApolloProvider } from '@apollo/react-hooks';
 import { PokemonsContainer } from './containers/PokemonsContainer';
